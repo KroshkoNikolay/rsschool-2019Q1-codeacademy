@@ -1,2 +1,2 @@
-# rsschool-2019Q1-codeacademy
-RS School
+Nikolay Kroshko
+HTML CSS Basics: https://www.codecademy.com/users/Kro_Nick/achievements
